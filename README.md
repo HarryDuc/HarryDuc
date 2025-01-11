@@ -250,9 +250,3 @@
 #
 
 ![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
-
-
------
-**Credits**: [GovindSingh9447](https://github.com/GovindSingh9447)
-
-**Last Edited on**: 20/04/2024

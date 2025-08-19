@@ -112,6 +112,17 @@
 
 #
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="example/dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="example/light.svg"
+  />
+  <img alt="Breakout Game" src="example/light.svg" />
+</picture>
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"

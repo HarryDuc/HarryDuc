@@ -115,13 +115,13 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="example/dark.svg"
+    srcset="breakout/dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="example/light.svg"
+    srcset="breakout/light.svg"
   />
-  <img alt="Breakout Game" src="example/light.svg" />
+  <img alt="Breakout Game" src="breakout/light.svg" />
 </picture>
 
 <p align="center">

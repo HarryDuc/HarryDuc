@@ -112,7 +112,7 @@
 
 #
 
-<picture>
+<picture align="center">
   <source
     media="(prefers-color-scheme: dark)"
     srcset="breakout/dark.svg"

@@ -80,7 +80,7 @@
 
 <br>
 
-### 📈 GitHub Analytics & Streak
+### 📈 GitHub Analytics
 
 <div align="center">
 
@@ -94,9 +94,9 @@
 
   <br>
 
-<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+<!-- <a href="https://github.com/denvercoder1/github-readme-streak-stats">
   <img src="https://streak-stats.demolab.com?user=HarryDuc&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" />
-</a>
+</a> -->
 
 </div>
 

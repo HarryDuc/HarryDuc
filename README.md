@@ -1,11 +1,4 @@
-<h1 align="center">
-  <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="GIF/Hi.gif" width="40px" />
-</h1>
-
-
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+<p><img align="right" height="250" width="300" src="./images/animation.gif" alt="HarryDuc" /></p>
 <br/>
 <br/>
 
@@ -25,14 +18,14 @@
 #
 
 <p align="center">
-  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
+  <img height="150" width="150" src="./images/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarryDuc&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
+  <img height="150" width="150" src="./images/right.webp">
 </p>
 
-#
+<!-- # -->
 
-**Tech Universe**
+<!-- **Tech Universe**
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -60,7 +53,7 @@
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</div>
+</div> -->
 
 ---
 
@@ -69,11 +62,10 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,java,php,go,ts,kotlin,html,css,js,bootstrap,tailwind,nextjs,nestjs,mysql,sqlite,postgres,mongo,git,github,docker,aws,cloudflare&perline=8" />
   <br><br>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/> -->
 </div>
-<br/>
+<!-- <br/> -->
 
 #
 
@@ -84,13 +76,13 @@
 
 <div align="center">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarryDuc&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  </div>
+
+  <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryDuc&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
-  </a>
+  </div>
 
   <br>
 
@@ -103,11 +95,11 @@
 ---
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=GovindSingh9447&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=HarryDuc&theme=react-dark&hide_border=true&area=true)
 
 
 <h4 align="center">
-  
+
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
@@ -130,8 +122,8 @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 
-</h4>  
-  
+</h4>
+
 
 <br/>
 
@@ -141,12 +133,12 @@
 
 #
 <br>
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning    93 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
-🌆 Daytime    274 commits    ██████░░░░░░░░░░░░░░░░░░░   27.16% 
-🌃 Evening    396 commits    █████████░░░░░░░░░░░░░░░░   39.25% 
+🌞 Morning    93 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.22%
+🌆 Daytime    274 commits    ██████░░░░░░░░░░░░░░░░░░░   27.16%
+🌃 Evening    396 commits    █████████░░░░░░░░░░░░░░░░   39.25%
 🌙 Night      246 commits    ██████░░░░░░░░░░░░░░░░░░░   24.38%
 
 ```
@@ -167,13 +159,13 @@
 </picture>
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="./images/github-contribution-grid-snake-bar.svg"
     alt="example" />
 </p>
 
 
 <div align="center">
-  <img src="https://github.com/cuong-sadboi/cuong-sadboi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="./images/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <div align="center">
@@ -187,4 +179,4 @@
 
 #
 
-![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
+![footer](/images/footer.webp)

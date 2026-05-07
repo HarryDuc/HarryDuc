@@ -74,18 +74,23 @@
 
 ### 📈 GitHub Analytics
 
-<div align="center" style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-  <div style="flex: 1 1 320px; max-width: 45%; min-width: 280px;">
-    <img width="100%" src="https://github-stats-extended.vercel.app/api?username=HarryDuc&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
-  </div>
-  <div style="flex: 1 1 320px; max-width: 45%; min-width: 280px;">
-    <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HarryDuc&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
-  </div>
-</div>
+
+<div align="center">
+
+  <span>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=HarryDuc&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
+  </span>
+  
+  <span>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HarryDuc&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
+  </span>
+  <br>
 
 <!-- <a href="https://github.com/denvercoder1/github-readme-streak-stats">
   <img src="https://streak-stats.demolab.com?user=HarryDuc&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" />
 </a> -->
+
+</div>
 
 
 ---

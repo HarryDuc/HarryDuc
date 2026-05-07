@@ -77,11 +77,11 @@
 <div align="center">
 
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarryDuc&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=HarryDuc&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
   </div>
 
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryDuc&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HarryDuc&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
   </div>
 
   <br>
